@@ -1,4 +1,4 @@
-# kubectl-_plus_helm
+# kubectl and helm
 For GitLab CI/DC
 
 ```bash
